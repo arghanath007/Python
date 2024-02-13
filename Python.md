@@ -72,6 +72,20 @@
 
 * Binary Representation of numbers.
 
+## Lists
+
+![image](https://github.com/arghanath007/Python/assets/54589605/27a12af7-e2b8-485b-a2e7-e23bd597790a)
+![image](https://github.com/arghanath007/Python/assets/54589605/85c529c3-b608-413d-80d7-369a95014659)
+![image](https://github.com/arghanath007/Python/assets/54589605/9568ef9e-e4ab-4b80-9f84-004fc9f45d65)
+
+* Combination of both the **lists**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/f59d9239-455c-441b-b5ca-2058834c785b)
+
+* Running Python code.
+
+
+
 
 
 

@@ -118,18 +118,43 @@
 
 * Ternary Operator.
 
+## For Loop
 
+![image](https://github.com/arghanath007/Python/assets/54589605/610539e7-0954-4384-9f49-58a267b8884d)
 
+* Example.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/5315e96f-7caf-453a-a6d0-2b8e28a1557c)
+![image](https://github.com/arghanath007/Python/assets/54589605/b17d3214-fc54-4170-b169-edd377a7cfa1)
 
+* range()
 
+![image](https://github.com/arghanath007/Python/assets/54589605/2005cb7b-eb4a-4ce6-8a33-ae919888cc4b)
 
+* By default is starts from **zero(0)**.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/3d5241f2-6a11-449f-b270-af0b1b4cef6a)
+![image](https://github.com/arghanath007/Python/assets/54589605/6bdf3023-43e5-4f7e-a854-e00591c58321)
+![image](https://github.com/arghanath007/Python/assets/54589605/df002400-21c8-47be-a382-86252b3e8f06)
 
+* Example.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/ef815bb7-3120-4ecc-a7bf-fe2adbc4435f)
+![image](https://github.com/arghanath007/Python/assets/54589605/d1f37f46-6cfa-4117-bbe5-54708f5aa004)
+![image](https://github.com/arghanath007/Python/assets/54589605/60de0c25-c101-4ce2-b753-6f01a158cf44)
+![image](https://github.com/arghanath007/Python/assets/54589605/ff503a04-692f-4333-8786-1f8348e877ec)
 
+* **break** statement.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/b48109bd-d63f-4a93-951d-bbc1642cbdb7)
 
+![image](https://github.com/arghanath007/Python/assets/54589605/12d19ab6-61ee-4fc6-9045-44a39b26305d)
+
+* **continue** statement.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/2901ee06-0679-4e98-9253-fed261d0cc7d)
+
+* **while** loop.
 
 
 

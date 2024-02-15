@@ -84,6 +84,44 @@
 
 * Running Python code.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/2d183719-84e1-4f2a-a356-e945114621e1)
+
+* Everything in python is **string**, we are using the **int()** to convert the string value to **int** value.
+
+## If Condition
+
+![image](https://github.com/arghanath007/Python/assets/54589605/ce62947a-eeaa-469d-8697-d1463b32b7ef)
+
+* **If** condition example.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/d48f4dc0-b84a-4f86-941e-36029faca3b5)
+
+* Debugging tool.
+* Debugging code is **important**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/10bcf9c1-d802-452e-aab9-848a06727504)
+![image](https://github.com/arghanath007/Python/assets/54589605/654e4e98-4e8c-4c80-a675-a728d79884b8)
+![image](https://github.com/arghanath007/Python/assets/54589605/e87409af-35ee-43bf-9335-9e724ae4d1e3)
+![image](https://github.com/arghanath007/Python/assets/54589605/231d6bfc-bd94-40af-945d-44fe4c6d1a5e)
+![image](https://github.com/arghanath007/Python/assets/54589605/2e1b88ec-05c6-4e7c-91cf-c7f24ec910bc)
+
+* Different Operators.
+* For **AND(and)** operator both the conditions have to be **True** in order for the overall statement to be **True**.
+* For **OR(or)** operator either of the conditions have to be **True** in order for the overall statement to be **True**.
+* For **Not(not)** operator, we are negating/reversing the output we are getting.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/bce87bf5-d7df-4e70-af1b-928a89285957)
+
+* **in** operator.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/bdbdb32e-9acc-4d5c-9b74-6174c6573c5c)
+
+* Ternary Operator.
+
+
+
+
+
 
 
 

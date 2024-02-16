@@ -156,6 +156,67 @@
 
 * **while** loop.
 
+## Function
+
+![image](https://github.com/arghanath007/Python/assets/54589605/0f98815b-7f7c-4c03-ace7-305082d99ae3)
+
+* Writing the documentation of the **function** we have created.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/f481413b-0e33-49f0-a675-e854bd33ebcc)
+
+* **help()** -> It is a special function in python which helps us to read the **documentation** written by the developer of the said function.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/45d0302b-cccc-4ea5-b54a-ff1572f4ed08)
+
+* Example.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/7428a8bb-54d0-49d7-89ac-7c33b9b64287)
+
+* Keyword arguments in python.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/cb014982-3eb5-4afe-a7ba-fcd5891f978c)
+
+* Default Argument.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/b8602b46-1c51-4acb-99ee-7053d722bf9f)
+
+* Overriding the default argument.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/7aa445a3-b9d3-4761-8274-cc34b847f955)
+
+* **volume** variable is not accisible outside of the **function** parameter.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/864f198c-80ab-4a31-9802-200756fe24a2)
+
+* Variable **scoping**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

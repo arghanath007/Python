@@ -84,7 +84,129 @@
 
 * Running Python code.
 
-##
+![image](https://github.com/arghanath007/Python/assets/54589605/2d183719-84e1-4f2a-a356-e945114621e1)
+
+* Everything in python is **string**, we are using the **int()** to convert the string value to **int** value.
+
+## If Condition
+
+![image](https://github.com/arghanath007/Python/assets/54589605/ce62947a-eeaa-469d-8697-d1463b32b7ef)
+
+* **If** condition example.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/d48f4dc0-b84a-4f86-941e-36029faca3b5)
+
+* Debugging tool.
+* Debugging code is **important**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/10bcf9c1-d802-452e-aab9-848a06727504)
+![image](https://github.com/arghanath007/Python/assets/54589605/654e4e98-4e8c-4c80-a675-a728d79884b8)
+![image](https://github.com/arghanath007/Python/assets/54589605/e87409af-35ee-43bf-9335-9e724ae4d1e3)
+![image](https://github.com/arghanath007/Python/assets/54589605/231d6bfc-bd94-40af-945d-44fe4c6d1a5e)
+![image](https://github.com/arghanath007/Python/assets/54589605/2e1b88ec-05c6-4e7c-91cf-c7f24ec910bc)
+
+* Different Operators.
+* For **AND(and)** operator both the conditions have to be **True** in order for the overall statement to be **True**.
+* For **OR(or)** operator either of the conditions have to be **True** in order for the overall statement to be **True**.
+* For **Not(not)** operator, we are negating/reversing the output we are getting.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/bce87bf5-d7df-4e70-af1b-928a89285957)
+
+* **in** operator.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/bdbdb32e-9acc-4d5c-9b74-6174c6573c5c)
+
+* Ternary Operator.
+
+## For Loop
+
+![image](https://github.com/arghanath007/Python/assets/54589605/610539e7-0954-4384-9f49-58a267b8884d)
+
+* Example.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/5315e96f-7caf-453a-a6d0-2b8e28a1557c)
+![image](https://github.com/arghanath007/Python/assets/54589605/b17d3214-fc54-4170-b169-edd377a7cfa1)
+
+* range()
+
+![image](https://github.com/arghanath007/Python/assets/54589605/2005cb7b-eb4a-4ce6-8a33-ae919888cc4b)
+
+* By default is starts from **zero(0)**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/3d5241f2-6a11-449f-b270-af0b1b4cef6a)
+![image](https://github.com/arghanath007/Python/assets/54589605/6bdf3023-43e5-4f7e-a854-e00591c58321)
+![image](https://github.com/arghanath007/Python/assets/54589605/df002400-21c8-47be-a382-86252b3e8f06)
+
+* Example.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/ef815bb7-3120-4ecc-a7bf-fe2adbc4435f)
+![image](https://github.com/arghanath007/Python/assets/54589605/d1f37f46-6cfa-4117-bbe5-54708f5aa004)
+![image](https://github.com/arghanath007/Python/assets/54589605/60de0c25-c101-4ce2-b753-6f01a158cf44)
+![image](https://github.com/arghanath007/Python/assets/54589605/ff503a04-692f-4333-8786-1f8348e877ec)
+
+* **break** statement.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/b48109bd-d63f-4a93-951d-bbc1642cbdb7)
+
+![image](https://github.com/arghanath007/Python/assets/54589605/12d19ab6-61ee-4fc6-9045-44a39b26305d)
+
+* **continue** statement.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/2901ee06-0679-4e98-9253-fed261d0cc7d)
+
+* **while** loop.
+
+## Function
+
+![image](https://github.com/arghanath007/Python/assets/54589605/0f98815b-7f7c-4c03-ace7-305082d99ae3)
+
+* Writing the documentation of the **function** we have created.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/f481413b-0e33-49f0-a675-e854bd33ebcc)
+
+* **help()** -> It is a special function in python which helps us to read the **documentation** written by the developer of the said function.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/45d0302b-cccc-4ea5-b54a-ff1572f4ed08)
+
+* Example.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/7428a8bb-54d0-49d7-89ac-7c33b9b64287)
+
+* Keyword arguments in python.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/cb014982-3eb5-4afe-a7ba-fcd5891f978c)
+
+* Default Argument.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/b8602b46-1c51-4acb-99ee-7053d722bf9f)
+
+* Overriding the default argument.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/7aa445a3-b9d3-4761-8274-cc34b847f955)
+
+* **volume** variable is not accisible outside of the **function** parameter.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/864f198c-80ab-4a31-9802-200756fe24a2)
+
+* Variable **scoping**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

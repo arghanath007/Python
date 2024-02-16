@@ -198,12 +198,44 @@
 * [] -> List.
 * () -> Tuple.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/e8c57be9-20c1-4fa2-89f9-89e940029034)
 
+* Tuple.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/73422bb3-36aa-493e-ab86-b5b0ba58a518)
+![image](https://github.com/arghanath007/Python/assets/54589605/89da4758-a087-4664-9a4a-1cde255c908e)
 
+## Dictionary
 
+![image](https://github.com/arghanath007/Python/assets/54589605/2376a39c-6ece-4f1d-bd42-8fda50f98920)
+![image](https://github.com/arghanath007/Python/assets/54589605/52425b9a-df32-4843-9f3d-5b82a6bcc19c)
 
+* if the size of the list is **n** then we are iterating for **n** times in the **worst case**.
+* The better way to store the information is using **dictionary**.
 
+![image](https://github.com/arghanath007/Python/assets/54589605/075703a6-5d20-40bf-9969-8560b9d1f89f)
+
+* O(1) or constant time complexity. [**IMPORTANT**]
+* **Dictionary** is **more efficient** than **lists**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/73292160-b158-47a2-ad09-fed282b49a5d)
+
+* Error if the **key** is not present in the **dictionary**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/d2cf9507-ab0d-4ae1-a083-8239b5f1ce24)
+![image](https://github.com/arghanath007/Python/assets/54589605/95383417-e83d-4450-a09c-9f0fbe38dd43)
+
+* **get()** is going to do the **same thing** and instead of getting an **error** and the programming **crashing/stopping** we will not get any error.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/92b94f44-ffe3-4d8d-bed2-c0581971da0f)
+![image](https://github.com/arghanath007/Python/assets/54589605/76e618bf-39ae-43ac-917e-c3a1997ad17d)
+![image](https://github.com/arghanath007/Python/assets/54589605/7902ee5e-2a87-4c2d-a7a1-94397ccb4b85)
+![image](https://github.com/arghanath007/Python/assets/54589605/af284e10-c626-47d5-a071-333556ab4fc3)
+
+* Adding a key-value pair to the **dictionary**.
+
+![image](https://github.com/arghanath007/Python/assets/54589605/a729400e-29d3-452f-a1c4-d5a6ea5e88e9)
+![image](https://github.com/arghanath007/Python/assets/54589605/1b1971cd-0b89-40fe-bace-3a5e9c57828d)
 
 
 

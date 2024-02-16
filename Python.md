@@ -184,11 +184,19 @@
 
 ![image](https://github.com/arghanath007/Python/assets/54589605/7aa445a3-b9d3-4761-8274-cc34b847f955)
 
-* **volume** variable is not accisible outside of the **function** parameter.
+* **volume** variable is not accessible outside of the **function** parameter.
 
 ![image](https://github.com/arghanath007/Python/assets/54589605/864f198c-80ab-4a31-9802-200756fe24a2)
 
 * Variable **scoping**.
+
+## Tuples
+
+* Tuples are **immutable**, we cannot **assign** values to tuples. Once we initialize some value, we cannot change it.
+* Tuples are more **memory manageable/efficient**.
+* **Python list** is a **dynamic array**.
+* [] -> List.
+* () -> Tuple.
 
 
 

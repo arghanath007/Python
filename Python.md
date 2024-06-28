@@ -237,8 +237,14 @@
 ![image](https://github.com/arghanath007/Python/assets/54589605/a729400e-29d3-452f-a1c4-d5a6ea5e88e9)
 ![image](https://github.com/arghanath007/Python/assets/54589605/1b1971cd-0b89-40fe-bace-3a5e9c57828d)
 
+## Modules and Pip
 
+![image](https://github.com/arghanath007/Python/assets/54589605/8c5443aa-8310-45d6-9b00-4e3cf072b384)
+![image](https://github.com/arghanath007/Python/assets/54589605/48c3e7bf-8038-409c-9d8e-830472c6ae56)
+![image](https://github.com/arghanath007/Python/assets/54589605/f9772ca0-79da-4d13-ab77-2698d23bb1fa)
 
+* Packages.
+* Pypi.org
 
 
 
